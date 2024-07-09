@@ -6,5 +6,6 @@ mysql:8.0.38
 greenbone/openvas-scanner
 greenbone/ospd-openvas
 greenbone/openvas-smb
+greenbone/redis-server
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
