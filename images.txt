@@ -4,4 +4,4 @@
 ubuntu:22.04
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64/v8
+--platform=linux/arm64/v8 ubuntu:22.04
